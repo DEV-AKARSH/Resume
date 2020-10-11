@@ -1,0 +1,36 @@
+body{
+    background-image: url(../images/bg.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+textarea{
+    width: 80vw;
+    height: 50vh;
+    display: block;
+    font-size: xx-large;
+    margin: auto;
+}
+button{
+    display: block;
+    margin:auto;
+    background-color: chartreuse;
+    color: white;
+    border-radius: 30px;
+    text-align: center;
+    font-size: large;
+    margin-top: 20px;
+}
+button:hover{
+    color: chartreuse;
+    background-color: white;
+    box-shadow:5px 5px 5px 5px black;
+}
+a{
+text-decoration: none;
+color: gold;
+text-align: center;
+}
+a:hover{
+    color:red;
+}
